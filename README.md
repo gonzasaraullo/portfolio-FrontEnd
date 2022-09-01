@@ -1,2 +1,2 @@
 # portfolio-FrontEnd
-proyecto electrical
+proyecto porfolio
