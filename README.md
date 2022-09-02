@@ -1,2 +1,0 @@
-# portfolio-FrontEnd
-proyecto porfolio
